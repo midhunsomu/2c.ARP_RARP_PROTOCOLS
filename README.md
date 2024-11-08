@@ -43,6 +43,8 @@ while True:
     s.send(ip.encode())
     print("MAC Address",s.recv(1024).decode())
 ```
+<br><br>
+<br><br>
 ## OUPUT - ARP
 ### Client:
 ![exp 2c arp client](https://github.com/user-attachments/assets/97351268-34eb-481d-a2d6-6262212341dc)
